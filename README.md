@@ -5,4 +5,4 @@ This repository contains a Python web scraping script designed to extract book t
 ## Requirements
 - Selenium
 - Beautifulsoup4
-- Chrome driver (or driver of you favorite browser)
+- Chrome driver (or driver of your favorite browser)
